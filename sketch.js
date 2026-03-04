@@ -199,7 +199,7 @@ function tileAtWorld(x, y) {
 }
 
 function preload() {
-  playerImg = loadImage("assets/orc2_attack_body.png");
+  playerImg = loadImage("assets/foxSpriteSheet.png");
   boarImg = loadImage("assets/boarSpriteSheet.png");
   leafImg = loadImage("assets/leafSpriteSheet.png");
   fireImg = loadImage("assets/fireSpriteSheet.png");
